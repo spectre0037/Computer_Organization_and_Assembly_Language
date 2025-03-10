@@ -7,3 +7,4 @@
     srl t3,t1,t2   # Shift right logical: t3 = t1 >> t2
 
     sra t4,t1,t2   # Shift right arithmetic: t4 = t1 >> t2 (sign-extended)
+    
