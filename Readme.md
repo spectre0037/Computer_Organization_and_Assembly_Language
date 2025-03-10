@@ -123,6 +123,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 </div>
 
+<div align="center">
+
 For any questions or concerns, please contact the course instructor at <a href="www.abdullahbinzubair.live." target="_">abdullahbinzubair.live</a>.
 
+</div>
+
+<div align="center">
+
 Happy Learning! 🚀
+
+</div>
