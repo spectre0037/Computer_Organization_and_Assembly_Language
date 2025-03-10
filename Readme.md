@@ -1,14 +1,8 @@
-<div align="center">
-
-# 🎓 COAL-LAB (CE-222) 🎓
-
-</div>
+# COAL-LAB (CE-222)
 
 Welcome to the COAL-LAB (Computer Organization and Assembly Language) course at Ghulam Ishaq Khan Institute. This course is divided into three main parts: Logisim, Assembly Language (RISC-V architecture), and Verilog on VIVADO.
 
-<div align="center">
-
-## 📚 Course Structure 📚
+## Course Structure
 
 ### Part 1: Logisim
 
@@ -23,13 +17,11 @@ In this part, you will learn about digital logic design using Logisim. Logisim i
 </div>
 
 #### Topics Covered:
-- 🔹 Basic Logic Gates
-- 🔹 Combinational Circuits
-- 🔹 Sequential Circuits
-- 🔹 Memory Elements
-- 🔹 Arithmetic Circuits
-
-<div align="center">
+- Basic Logic Gates
+- Combinational Circuits
+- Sequential Circuits
+- Memory Elements
+- Arithmetic Circuits
 
 ### Part 2: Assembly Language (RISC-V Architecture)
 
@@ -44,14 +36,12 @@ This part focuses on programming in assembly language using the RISC-V architect
 </div>
 
 #### Topics Covered:
-- 🔹 Introduction to RISC-V
-- 🔹 Basic Assembly Instructions
-- 🔹 Control Flow Instructions
-- 🔹 Data Movement Instructions
-- 🔹 Subroutines and Functions
-- 🔹 Interrupts and Exceptions
-
-<div align="center">
+- Introduction to RISC-V
+- Basic Assembly Instructions
+- Control Flow Instructions
+- Data Movement Instructions
+- Subroutines and Functions
+- Interrupts and Exceptions
 
 ### Part 3: Verilog on VIVADO
 
@@ -66,18 +56,14 @@ In the final part, you will learn hardware description language (HDL) using Veri
 </div>
 
 #### Topics Covered:
-- 🔹 Introduction to Verilog
-- 🔹 Combinational Logic Design
-- 🔹 Sequential Logic Design
-- 🔹 Finite State Machines
-- 🔹 Synthesis and Simulation
-- 🔹 FPGA Implementation
+- Introduction to Verilog
+- Combinational Logic Design
+- Sequential Logic Design
+- Finite State Machines
+- Synthesis and Simulation
+- FPGA Implementation
 
-<div align="center">
-
-## 🚀 Getting Started 🚀
-
-</div>
+## Getting Started
 
 ### Prerequisites
 - 🔹 Basic understanding of digital logic design
@@ -88,11 +74,7 @@ In the final part, you will learn hardware description language (HDL) using Veri
 - [RISC-V Simulator](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/)
 - [Vivado Design Suite](https://www.xilinx.com/products/design-tools/vivado.html)
 
-<div align="center">
-
-## 📂 How to Use This Repository 📂
-
-</div>
+## How to Use This Repository
 
 1. Clone the repository to your local machine.
     ```bash
@@ -101,28 +83,16 @@ In the final part, you will learn hardware description language (HDL) using Veri
 2. Navigate to the respective part directories to find the lab exercises and assignments.
 3. Follow the instructions provided in each directory to complete the labs.
 
-<div align="center">
-
-## 🤝 Contributing 🤝
-
-</div>
+## Contributing
 
 If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
 
-<div align="center">
-
-## 📜 License 📜
-
-</div>
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-<div align="center">
+## Contact
 
-## 📧 Contact 📧
+For any questions or concerns, please contact the course instructor at [instructor-email@example.com].
 
-</div>
-
-For any questions or concerns, please contact the course me at [abdullahbinzubair.live].
-
-Happy Learning! 🎉
+Happy Learning!
