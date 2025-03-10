@@ -1,4 +1,6 @@
-# COAL-LAB (CE-222)
+<div align="center">
+
+# 💻 COAL-LAB (CE-222) 🖥️
 
 Welcome to the COAL-LAB (Computer Organization and Assembly Language) course at Ghulam Ishaq Khan Institute. This course is divided into three main parts: Logisim, Assembly Language (RISC-V architecture), and Verilog on VIVADO.
 
@@ -6,62 +8,44 @@ Welcome to the COAL-LAB (Computer Organization and Assembly Language) course at 
 
 ### Part 1: Logisim
 
-</div>
-
 In this part, you will learn about digital logic design using Logisim. Logisim is an educational tool for designing and simulating digital logic circuits.
-
-<div align="center">
 
 ![Logisim](https://png.pngtree.com/background/20250107/original/pngtree-3d-render-of-a-printed-circuit-board-picture-image_13279957.jpg)
 
-</div>
-
 #### Topics Covered:
-- Basic Logic Gates
-- Combinational Circuits
-- Sequential Circuits
-- Memory Elements
-- Arithmetic Circuits
+- 🔹 Basic Logic Gates
+- 🔹 Combinational Circuits
+- 🔹 Sequential Circuits
+- 🔹 Memory Elements
+- 🔹 Arithmetic Circuits
 
 ### Part 2: Assembly Language (RISC-V Architecture)
 
-</div>
-
 This part focuses on programming in assembly language using the RISC-V architecture. You will learn how to write and understand low-level code that interacts directly with the hardware.
-
-<div align="center">
 
 ![RISC-V](https://png.pngtree.com/thumb_back/fh260/background/20230929/pngtree-3d-geometric-shapes-set-against-a-programming-code-background-image_13533729.png)
 
-</div>
-
 #### Topics Covered:
-- Introduction to RISC-V
-- Basic Assembly Instructions
-- Control Flow Instructions
-- Data Movement Instructions
-- Subroutines and Functions
-- Interrupts and Exceptions
+- 🔹 Introduction to RISC-V
+- 🔹 Basic Assembly Instructions
+- 🔹 Control Flow Instructions
+- 🔹 Data Movement Instructions
+- 🔹 Subroutines and Functions
+- 🔹 Interrupts and Exceptions
 
 ### Part 3: Verilog on VIVADO
 
-</div>
-
 In the final part, you will learn hardware description language (HDL) using Verilog and implement your designs on the VIVADO platform.
-
-<div align="center">
 
 ![Vivado](https://kit-e.ru/wp-content/uploads/maxresdefault.jpg)
 
-</div>
-
 #### Topics Covered:
-- Introduction to Verilog
-- Combinational Logic Design
-- Sequential Logic Design
-- Finite State Machines
-- Synthesis and Simulation
-- FPGA Implementation
+- 🔹 Introduction to Verilog
+- 🔹 Combinational Logic Design
+- 🔹 Sequential Logic Design
+- 🔹 Finite State Machines
+- 🔹 Synthesis and Simulation
+- 🔹 FPGA Implementation
 
 ## Getting Started
 
@@ -95,4 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or concerns, please contact the course instructor at [instructor-email@example.com].
 
-Happy Learning!
+Happy Learning! 🚀
+
+</div>
