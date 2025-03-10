@@ -8,9 +8,9 @@ Welcome to the COAL-LAB (Computer Organization and Assembly Language) course at 
 
 <div align="center">
 
-## Course Structure
+## 📚 Course Structure
 
-### Part 1: Logisim
+### 🧩 Part 1: Logisim
 
 </div>
 
@@ -31,7 +31,7 @@ In this part, you will learn about digital logic design using Logisim. Logisim i
 
 <div align="center">
 
-### Part 2: Assembly Language (RISC-V Architecture)
+### 🖥️ Part 2: Assembly Language (RISC-V Architecture)
 
 </div>
 
@@ -53,7 +53,7 @@ This part focuses on programming in assembly language using the RISC-V architect
 
 <div align="center">
 
-### Part 3: Verilog on VIVADO
+### 🔧 Part 3: Verilog on VIVADO
 
 </div>
 
@@ -75,7 +75,7 @@ In the final part, you will learn hardware description language (HDL) using Veri
 
 <div align="center">
 
-## Getting Started
+## 🚀 Getting Started
 
 </div>
 
@@ -90,7 +90,7 @@ In the final part, you will learn hardware description language (HDL) using Veri
 
 <div align="center">
 
-## How to Use This Repository
+## 📂 How to Use This Repository
 
 </div>
 
@@ -103,7 +103,7 @@ In the final part, you will learn hardware description language (HDL) using Veri
 
 <div align="center">
 
-## Contributing
+## 🤝 Contributing
 
 </div>
 
@@ -111,7 +111,7 @@ If you would like to contribute to this repository, please fork the repository a
 
 <div align="center">
 
-## License
+## 📜 License
 
 </div>
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-## Contact
+## 📧 Contact
 
 </div>
 
