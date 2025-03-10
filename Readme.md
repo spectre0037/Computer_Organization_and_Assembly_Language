@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 COMPUTER ORGANIZATION <br> AND <br> ASSEMBLY LANGUAGE 🖥️
+# 💻 COMPUTER ORGANIZATION 🖥️ <br> AND <br> ASSEMBLY LANGUAGE 
 
 </div>
 
