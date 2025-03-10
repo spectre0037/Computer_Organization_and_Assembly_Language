@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 COAL-LAB (CE-222) 🖥️
+# 💻 COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE 🖥️
 
 </div>
 
