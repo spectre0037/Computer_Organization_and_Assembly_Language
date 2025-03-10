@@ -7,7 +7,7 @@ Welcome to the COAL-LAB (Computer Organization and Assembly Language) course at 
 ### Part 1: Logisim
 In this part, you will learn about digital logic design using Logisim. Logisim is an educational tool for designing and simulating digital logic circuits.
 
-![Logisim](https://example.com/logisim-image.png)
+![Logisim](https://png.pngtree.com/background/20250107/original/pngtree-3d-render-of-a-printed-circuit-board-picture-image_13279957.jpg)
 
 #### Topics Covered:
 - Basic Logic Gates
@@ -19,7 +19,7 @@ In this part, you will learn about digital logic design using Logisim. Logisim i
 ### Part 2: Assembly Language (RISC-V Architecture)
 This part focuses on programming in assembly language using the RISC-V architecture. You will learn how to write and understand low-level code that interacts directly with the hardware.
 
-![RISC-V](https://example.com/riscv-image.png)
+![RISC-V](https://png.pngtree.com/thumb_back/fh260/background/20230929/pngtree-3d-geometric-shapes-set-against-a-programming-code-background-image_13533729.png)
 
 #### Topics Covered:
 - Introduction to RISC-V
@@ -32,7 +32,7 @@ This part focuses on programming in assembly language using the RISC-V architect
 ### Part 3: Verilog on VIVADO
 In the final part, you will learn hardware description language (HDL) using Verilog and implement your designs on the VIVADO platform.
 
-![Vivado](https://example.com/vivado-image.png)
+![Vivado](https://kit-e.ru/wp-content/uploads/maxresdefault.jpg)
 
 #### Topics Covered:
 - Introduction to Verilog
