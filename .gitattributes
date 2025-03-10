@@ -1,3 +1,4 @@
 *.circ linguist-language=Assembly
 *.circ linguist-detectable=true
-
+*.xpr  linguist-language=verilog
+*.xpr  linguist-detectable=true

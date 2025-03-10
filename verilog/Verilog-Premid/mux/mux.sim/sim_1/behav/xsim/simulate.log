@@ -1,0 +1,11 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Time = 0 | s2 = 0 s1 = 0 s0 = 0 | y = 0
+Time = 10000 | s2 = 0 s1 = 0 s0 = 1 | y = 1
+Time = 20000 | s2 = 0 s1 = 1 s0 = 0 | y = 0
+Time = 30000 | s2 = 0 s1 = 1 s0 = 1 | y = 1
+Time = 40000 | s2 = 1 s1 = 0 s0 = 0 | y = 0
+Time = 50000 | s2 = 1 s1 = 0 s0 = 1 | y = 1
+Time = 60000 | s2 = 1 s1 = 1 s0 = 0 | y = 0
+Time = 70000 | s2 = 1 s1 = 1 s0 = 1 | y = 1
+$finish called at time : 80 ns : File "C:/Users/pc_47/Desktop/mux/mux.srcs/sim_1/new/mux_tb.v" Line 50

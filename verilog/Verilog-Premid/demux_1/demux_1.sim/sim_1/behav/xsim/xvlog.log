@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/pc_47/Desktop/2023037/demux_1/demux_1.srcs/sources_1/new/demux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/pc_47/Desktop/2023037/demux_1/demux_1.srcs/sim_1/new/demux_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/pc_47/Desktop/2023037/demux_1/demux_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
